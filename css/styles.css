@@ -1,0 +1,21 @@
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--color-black);
+    color: var(--color-white);
+    margin: 20px 80px;
+}
+
+.centered {
+    text-align: center;
+    vertical-align: middle;
+}

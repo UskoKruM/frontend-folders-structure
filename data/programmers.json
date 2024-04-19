@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Andrea Thomas",
+        "languages": ["C#", "Kotlin", "Java"]
+    },
+    {
+        "name": "Ervin Howell",
+        "languages": ["JavaScript", "PHP"]
+    },
+    {
+        "name": "Jaime Díaz",
+        "languages": ["Python", "PHP", "Perl"]
+    },
+    {
+        "name": "Clementine Bauch",
+        "languages": ["Java", "C++", "Dart"]
+    },
+    {
+        "name": "Pierina López",
+        "languages": ["Python", "Dart", "C++", "Java"]
+    },
+    {
+        "name": "Juan Ramírez",
+        "languages": ["Perl", "C#", "JavaScript"]
+    }
+]
